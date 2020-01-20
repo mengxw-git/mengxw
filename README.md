@@ -1,5 +1,3 @@
-https://blog.csdn.net/rejames/article/details/89877517
-
 <p>
 <table border="0">
   <tr>
@@ -18,7 +16,7 @@ https://blog.csdn.net/rejames/article/details/89877517
       <p>岗位：安徽四创电子股份有限公司北斗系统与应用事业部主任 北斗卫星导航技术安徽省重点实验室主任</p>
     </td>
     <td width="25%">
-      <img src="https://raw.githubusercontent.com/wxqwxq/mengxianwei/master/mengxianwei.png" width="100%">     
+      <img src="https://raw.githubusercontent.com/mengxw-git/mengxw/master/mengxianwei.png" width="100%">     
     </td>
   </tr>
 </table>
